@@ -31,8 +31,7 @@ export default class App extends Component {
       });
   }
 
-  render() {
-    console.log(this.state.gifs);
+  render() { 
     return (
       <div>
         <div className="main-header">
