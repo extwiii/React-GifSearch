@@ -21,7 +21,7 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git https://github.com/extwiii/React-GifSearch.git
+git clone https://github.com/extwiii/React-GifSearch.git
 
 # Change directory
 cd React-GifSearch
