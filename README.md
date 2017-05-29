@@ -35,9 +35,8 @@ npm run build
 # Then start your app 
 npm run start
 
-# Mocha for test
-npm run test
 ```
+- Go to http://localhost:8080/ from your browser
 
 Changelog
 ---------
