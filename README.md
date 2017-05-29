@@ -7,12 +7,8 @@ Features
 --------
 - React.js 
 - create-react-app
-- webpack
-- webpack-dev-server
-- babel
-- Mocha
-- chai
-- redux
+- axios
+- api.giphy
 
 Prerequisites
 -------------
