@@ -1,8 +1,6 @@
 # React-GifSearch
 Basic Gif Search SPA with React.js
 
-Live Demo : [React-GifSearch](https://extwiii-gifsearch.herokuapp.com/)
-
 Features
 --------
 - React.js 
